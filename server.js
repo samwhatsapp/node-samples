@@ -6,6 +6,7 @@ const fs = require('fs');
 //again branch update
 //and again
 //wt the heck
+//My forte
 var app = express();
 //master arrived//haha its me again
 hbs.registerPartials(__dirname +'/views/partials');
