@@ -9,6 +9,7 @@ const fs = require('fs');
 //My forte
 var app = express();
 //master arrived//haha its me again
+//master arrived  //branch is here, go away
 hbs.registerPartials(__dirname +'/views/partials');
 app.set('view engine','hbs');
 
