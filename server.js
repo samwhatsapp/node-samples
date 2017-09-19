@@ -4,8 +4,12 @@ const fs = require('fs');
 
 //branch update
 //again branch update
+//and again
+//wt the heck
+//My forte
 var app = express();
 //master arrived//haha its me again
+//master arrived  //branch is here, go away
 hbs.registerPartials(__dirname +'/views/partials');
 app.set('view engine','hbs');
 
